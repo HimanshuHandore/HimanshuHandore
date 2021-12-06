@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HimanshuHandore
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning BE Computer engineering
+- 👀 I’m interested in Coding, Web Devlopment, Database Managment System, Frontend Development
+- 🌱 I’m currently Pursing Last year BE Computer engineering At @MCOERC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
